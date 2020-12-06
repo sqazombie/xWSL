@@ -22,7 +22,7 @@ You will see best performance connecting from the local machine or over gigabit 
 
 **INSTRUCTIONS:  From an elevated prompt, change to your desired install directory and type/paste the following command:**
 
-    PowerShell -executionpolicy bypass -command "wget https://github.com/DesktopECHO/xWSL/raw/master/xWSL.cmd -UseBasicParsing -OutFile xWSL.cmd ; .\xWSL.cmd"
+    PowerShell -executionpolicy bypass -command "wget https://github.com/sqazombie/xWSL/raw/main/xWSL.cmd -UseBasicParsing -OutFile xWSL.cmd ; .\xWSL.cmd"
 
 You will be asked a few questions.  The install script finds out the current DPI scaling from Windows; you can set your own value if preferred:
 
